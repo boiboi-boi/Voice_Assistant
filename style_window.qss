@@ -1,0 +1,28 @@
+QMainWindow{
+    background: rgb(2, 168, 214);
+}
+QTextBrowser{border-style: solid;
+        border-width: 0px;
+        border-radius: 4px;
+        border-color: rgb(125,30,125);
+        background-color: rgba(4, 103, 130, 1);}
+QPushButton{border-style: solid;
+        border-width: 0px;
+        border-radius: 4px;
+        border-color: rgb(125,30,125);
+        background-color: rgba(4, 103, 130, 1);}
+QPushButton:hover{border-style: solid;
+        border-width: 0px;
+        border-radius: 4px;
+        border-color: rgb(125,125,25);
+        background-color: rgba(4, 103, 130, 1);}
+QToolButton{border-style: solid;
+        border-width: 0px;
+        border-radius: 4px;
+        border-color: rgb(125,125,125);
+        background-color: rgba(4, 103, 130, 1);}
+QToolButton:hover{border-style: solid;
+        border-width: 0px;
+        border-radius: 4px;
+        border-color: rgb(125,125,125);
+        background-color: rgba(4, 103, 130, 1);}
